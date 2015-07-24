@@ -1,4 +1,0 @@
-%{"app1": {:git, "~/personal/eapp/deps_get/app1", "9a85cfb1b6a8e58e472d272b022a6215f7a8bb1e", [branch: "master"]},
-  "app2": {:git, "deps_get/app2", "a9da16de0d8df6e1e1488ee93a087a947a6e1c55", []},
-  "goldrush": {:git, "git://github.com/DeadZen/goldrush.git", "64864ba7fcf40988361340e48680b49a2c2938cf", [tag: "0.1.7"]},
-  "lager": {:git, "git://github.com/basho/lager.git", "f65dde85523b6aa6a259db1c93518187ae366515", [tag: "2.2.0"]}}
